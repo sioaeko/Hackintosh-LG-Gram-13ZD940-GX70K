@@ -8,6 +8,8 @@ I wrote down the detailed description of this EFI in the notion https://alive-ba
 ![Screen Shot 2022-05-05 at 3 14 04 PM](https://user-images.githubusercontent.com/101755125/167093625-3c706a0a-d311-4ead-a6e6-03725fba7623.png)
 
 # Working Features
+
+## Hardware Spec
 CPU : Intel(R) i7-4500U Dual-Core @ 1.80 GHz
 Memory : DDR3L 8GB 1600MHz
 SSD : HFS256G36MNB-2300A 256GB
