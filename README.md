@@ -51,3 +51,12 @@ Micor SD Card Reader ( Note Tested )
 Intel Speed Step
 
 Battery Percentage DDST/SSDT Hot Patch
+
+## Bios Setting
+
+
+
+#### Download my EFI on Github repo and Google drive!
+[Google_Drive](https://drive.google.com/file/d/1CyTfwLp8LdEXOWdC0v1mAAIy38greFVY/view)
+
+
