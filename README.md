@@ -40,6 +40,9 @@ SMBIOS : MacbookPro 11,1 (2013)
 
 ## Not Working yet  
 VGA ( Real Macs don't have VGA output, so doesn't have support normally )
+
 Micor SD Card Reader ( Note Tested )
+
 Intel Speed Step
+
 Battery Percentage DDST/SSDT Hot Patch
