@@ -1,6 +1,7 @@
 # Opencore-EFI-LG-Gram-13ZD940-GX70K-OC-0.7.9
 
-I wrote down the detailed description of this EFI in the notion https://alive-bayberry-ea1.notion.site/LG-Gram-13ZD940-GX70K-Hackintosh-OC-0-7-9-Complete-433fdf384e0c4d22963df2c247d13fce
+I wrote down the detailed description of this EFI in the notion 
+> https://alive-bayberry-ea1.notion.site/LG-Gram-13ZD940-GX70K-Hackintosh-OC-0-7-9-Complete-433fdf384e0c4d22963df2c247d13fce
 
 <img src = "https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="40%"></img>
 
@@ -11,11 +12,12 @@ I wrote down the detailed description of this EFI in the notion https://alive-ba
 ![Screen Shot 2022-05-05 at 3 14 04 PM](https://user-images.githubusercontent.com/101755125/167093625-3c706a0a-d311-4ead-a6e6-03725fba7623.png)
 
 ## Hardware Spec
-CPU : Intel(R) i7-4500U Dual-Core @ 1.80 GHz
-Memory : DDR3L 8GB 1600MHz
-SSD : HFS256G36MNB-2300A 256GB
-Graphics : Intel HD Graphics 4400 1536MB ( Laptop ) - HDMI 1.4
-SMBIOS : MacbookPro 11,1 (2013)
+
+     CPU : Intel(R) i7-4500U Dual-Core @ 1.80 GHz
+     Memory : DDR3L 8GB 1600MHz
+     SSD : HFS256G36MNB-2300A 256GB
+     Graphics : Intel HD Graphics 4400 1536MB ( Laptop )
+     SMBIOS : MacbookPro 11,1 (2013)
 
 ![Screen Shot 2022-05-05 at 3 16 51 PM](https://user-images.githubusercontent.com/101755125/167093994-9dc6e584-5aaa-4851-ae56-933e8262d9e0.png)
 
