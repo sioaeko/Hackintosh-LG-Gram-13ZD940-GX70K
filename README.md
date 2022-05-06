@@ -22,9 +22,8 @@ I wrote down the detailed description of this EFI in the notion
 
 ![Screen Shot 2022-05-05 at 3 16 51 PM](https://user-images.githubusercontent.com/101755125/167093994-9dc6e584-5aaa-4851-ae56-933e8262d9e0.png)
 
-- itlwm/OpenintelWireless.kext Working { Intel(R) Dual Band Wireless AC 7265 ( Gen 1 IWM )}
-
-       Apple Communites Servies + BT Dongle ( Handoff, icloud, instant hospot ) , But Airdrop doesn’t receive files and don’t search nearby airdrop devices + Doesn’t Support Sidecar,Universal Control ( cuz SMBIOS is 2011” )
+### itlwm/OpenintelWireless.kext Working { Intel(R) Dual Band Wireless AC 7265 ( Gen 1 IWM )}
+      Apple Communites Servies + BT Dongle ( Handoff, icloud, instant hospot ) , But Airdrop doesn’t receive files and don’t search nearby airdrop           devices + Doesn’t Support Sidecar,Universal Control ( cuz SMBIOS is 2011” )
 
 ![Screen Shot 2022-05-05 at 3 16 40 PM](https://user-images.githubusercontent.com/101755125/167093772-f9edbc95-b6fd-4532-89a7-40eec229a019.png)
 
