@@ -1,0 +1,1 @@
+# Opencore-EFI-LG-Gram-13ZD940-GX70K-OC-0.7.9
