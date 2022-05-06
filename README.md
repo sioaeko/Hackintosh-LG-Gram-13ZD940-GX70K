@@ -5,7 +5,7 @@ I wrote down the detailed description of this EFI in the notion
 
 <img src = "https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="40%"></img>
 
-#Working Features
+# Working Features
 
 <img src = "https://user-images.githubusercontent.com/101755125/167093601-fa42a564-bccd-415f-937b-0e566762e02f.png" width="80%"></img>
 
