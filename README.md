@@ -21,9 +21,14 @@ I wrote down the detailed description of this EFI in the notion
      SMBIOS : MacbookPro 11,1 (2013)
 
 ![Screen Shot 2022-05-05 at 3 16 51 PM](https://user-images.githubusercontent.com/101755125/167093994-9dc6e584-5aaa-4851-ae56-933e8262d9e0.png)
+![KakaoTalk_Photo_2022-05-07-13-36-14](https://user-images.githubusercontent.com/101755125/167243015-0bcea46b-ee4f-49ef-9390-5f36928c358f.png)
+
 
 ### itlwm/OpenintelWireless.kext Working { Intel(R) Dual Band Wireless AC 7265 ( Gen 1 IWM )}
-      Apple Communites Servies + BT Dongle ( Handoff, icloud, instant hospot ) , But Airdrop doesn’t receive files and don’t search nearby airdrop           devices + Doesn’t Support Sidecar,Universal Control ( cuz SMBIOS is 2011” )
+      Apple Communites Servies + BT Dongle ( Handoff, icloud, instant hospot ) , (Airdrop, Sidecar, Universal Control X )
+      
+![KakaoTalk_Photo_2022-05-07-13-34-45](https://user-images.githubusercontent.com/101755125/167243024-4b8b823f-8888-446a-882c-24820a1ff01b.png)
+
 
 ![Screen Shot 2022-05-05 at 3 16 40 PM](https://user-images.githubusercontent.com/101755125/167093772-f9edbc95-b6fd-4532-89a7-40eec229a019.png)
 
