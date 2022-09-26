@@ -4,13 +4,12 @@ I wrote down the detailed description of this EFI in the notion
 > https://alive-bayberry-ea1.notion.site/LG-Gram-13ZD940-GX70K-Hackintosh-OC-0-7-9-Complete-433fdf384e0c4d22963df2c247d13fce
 
 
-   <img src = "https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="40%"></img>
+   <img src = "https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="30%"></img>
 
 # Working Features
 
-<img src = "https://user-images.githubusercontent.com/101755125/167093601-fa42a564-bccd-415f-937b-0e566762e02f.png" width="80%"></img>
-
-<img src = "https://user-images.githubusercontent.com/101755125/167093625-3c706a0a-d311-4ead-a6e6-03725fba7623.png" width="70%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/167093601-fa42a564-bccd-415f-937b-0e566762e02f.png" width="45%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/167093625-3c706a0a-d311-4ead-a6e6-03725fba7623.png" width="45%"></img>
 
 ## Hardware Spec
 
