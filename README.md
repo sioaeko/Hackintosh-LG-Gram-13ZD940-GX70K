@@ -19,9 +19,6 @@ I wrote down the detailed description of this EFI in the notion
      Graphics : Intel HD Graphics 4400 1536MB ( Laptop )
      SMBIOS : MacbookPro 11,1 (2013)
 
-<img src = "https://user-images.githubusercontent.com/101755125/167093994-9dc6e584-5aaa-4851-ae56-933e8262d9e0.png" width="55%"></img>
-<img src = "https://user-images.githubusercontent.com/101755125/167243015-0bcea46b-ee4f-49ef-9390-5f36928c358f.png" width="40%"></img>
-
 ## Working Functions
 <img src = "https://user-images.githubusercontent.com/101755125/167243024-4b8b823f-8888-446a-882c-24820a1ff01b.png" width="20%"></img>            
       
@@ -34,6 +31,8 @@ I wrote down the detailed description of this EFI in the notion
 
 <img src = "https://user-images.githubusercontent.com/101755125/167093772-f9edbc95-b6fd-4532-89a7-40eec229a019.png" width="50%"></img>
 <img src = "https://user-images.githubusercontent.com/101755125/167093844-dab7bb67-ccf2-4ec7-94c1-7858e9a8041c.png" width="40%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/167093994-9dc6e584-5aaa-4851-ae56-933e8262d9e0.png" width="50%"></img>
+<img src = "https://user-images.githubusercontent.com/101755125/167243015-0bcea46b-ee4f-49ef-9390-5f36928c358f.png" width="40%"></img>
 
 ## Not Working yet  
 
