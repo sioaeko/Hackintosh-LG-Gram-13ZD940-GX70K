@@ -32,7 +32,6 @@ I wrote down the detailed description of this EFI in the notion
 <img src = "https://user-images.githubusercontent.com/101755125/167093772-f9edbc95-b6fd-4532-89a7-40eec229a019.png" width="50%"></img>
 <img src = "https://user-images.githubusercontent.com/101755125/167093844-dab7bb67-ccf2-4ec7-94c1-7858e9a8041c.png" width="40%"></img>
 <img src = "https://user-images.githubusercontent.com/101755125/167093994-9dc6e584-5aaa-4851-ae56-933e8262d9e0.png" width="50%"></img>
-<img src = "https://user-images.githubusercontent.com/101755125/167243015-0bcea46b-ee4f-49ef-9390-5f36928c358f.png" width="40%"></img>
 
 ## Not Working yet  
 
