@@ -1,7 +1,7 @@
 # Opencore-EFI-LG-Gram-13ZD940-GX70K-OC-0.7.9
 
 I wrote down the detailed description of this EFI in the notion 
-> https://alive-bayberry-ea1.notion.site/LG-Gram-13ZD940-GX70K-Hackintosh-OC-0-7-9-Complete-433fdf384e0c4d22963df2c247d13fce
+> https://asanari.notion.site/LG-Gram-13ZD940-GX70K-Hackintosh-OC-0-7-9-Ventura-X-433fdf384e0c4d22963df2c247d13fce?pvs=4
 
 
    <img src = "https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="30%"></img>
