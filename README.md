@@ -40,11 +40,9 @@ I wrote down the detailed description of this EFI in the notion
       Intel Speed Step
       Battery Percentage DDST/SSDT Hot Patch
 
-## Bios Setting
+      
+## Star History
 
-
-
-#### Download my EFI on Github repo and Google drive!
-[Google_Drive](https://drive.google.com/file/d/1CyTfwLp8LdEXOWdC0v1mAAIy38greFVY/view)
+[![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-Opencore-LG-Gram-13ZD940-GX70K-OC-0.7.9&type=Timeline)](https://star-history.com/#sioaeko/Hackintosh-Opencore-LG-Gram-13ZD940-GX70K-OC-0.7.9&Timeline)
 
 
