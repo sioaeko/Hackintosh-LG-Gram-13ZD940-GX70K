@@ -1,8 +1,12 @@
 # Opencore-EFI-LG-Gram-13ZD940-GX70K-OC-0.7.9
 
-### This project has been deprecated since 2022.06
-### EFI can still be used, but technical maintenance, such as updates to align with future OpenCore versions, will no longer be supported. 
-### Have a happy Hackintosh :D
+
+⚠ Notice!
+
+>This project will not be maintained for future versions of OpenCore as the developers no longer own the hardware.
+>
+>Switch to read-only archive as this repository will be deprecated in 2024
+
 
 
    <img src = "https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="30%"></img>
