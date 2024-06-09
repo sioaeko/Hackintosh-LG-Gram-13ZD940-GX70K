@@ -3,9 +3,9 @@
 
 ⚠ Notice!
 
->This project will not be maintained for future versions of OpenCore as the developers no longer own the hardware.
+>This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
 >
->Switch to read-only archive as this repository will be deprecated in 2024
+>The developer no longer has the hardware in his possession, so he is unable to test it, but you can try it instead of the existing 0.7.9 version
 
 
 
