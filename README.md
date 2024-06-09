@@ -2,10 +2,24 @@
 
 
 ⚠ Notice!
-
 >This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
 >
->The developer no longer has the hardware in his possession, so he is unable to test it, but you can try it instead of the existing 0.7.9 version
+>The developer no longer has that hardware, so that version has not been tested for operation.
+>If the version doesn't work, you can use the
+>please use the 0.7.9 release of Opencore, which has been verified to work.
+>
+>kexts are missing for copyright reasons
+>For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
+>
+>The ACPI file can be copied from the EFI of the previous bootloader
+>
+>Resources can be copied and pasted from the genuine opencore 1.0.0 bootloader file
+>
+>We will deploy a future release that also adds the ACPI and Resources folders that are missing in 1.0.0 EFI
+>
+>If you don't want to do that, you can use the finished 0.7.9 release
+>
+>Have a Happy Hackintosh :D
 
 
 
