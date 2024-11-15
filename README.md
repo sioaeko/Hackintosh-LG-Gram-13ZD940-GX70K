@@ -21,10 +21,6 @@
   </table>
 </div>
 
-
-
-   <img src = "https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="30%"></img>
-
 # Working Features
 
 <img src = "https://user-images.githubusercontent.com/101755125/167093601-fa42a564-bccd-415f-937b-0e566762e02f.png" width="45%"></img>
