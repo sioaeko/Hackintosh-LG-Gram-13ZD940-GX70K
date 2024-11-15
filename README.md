@@ -1,25 +1,25 @@
 # Opencore-EFI-LG-Gram-13ZD940-GX70K-OC-1.0.0
 
 
-⚠ Notice!
->This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
->
->The developer no longer has that hardware, so that version has not been tested for operation.
->If the version doesn't work, you can use the
->please use the 0.7.9 release of Opencore, which has been verified to work.
->
->kexts are missing for copyright reasons
->For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
->
->The ACPI file can be copied from the EFI of the previous bootloader
->
->Resources can be copied and pasted from the genuine opencore 1.0.0 bootloader file
->
->We will deploy a future release that also adds the ACPI and Resources folders that are missing in 1.0.0 EFI
->
->If you don't want to do that, you can use the finished 0.7.9 release
->
->Have a Happy Hackintosh :D
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h2>⚠️ ARCHIVED</h2>
+        <img src="https://user-images.githubusercontent.com/101755125/167093414-bd0f0819-46cc-4267-be1b-547acd665b58.png" width="130" alt="Hackintosh Logo">
+        <p><strong>This repository is now archived and no longer maintained.</strong></p>
+        <p>Important Notes:</p>
+        <ul align="left">
+          <li>🔄 Last updated to support OpenCore 0.7.9</li>
+          <li>⚠️ Version 1.0.0 is untested as developer no longer has the hardware</li>
+          <li>✅ OpenCore 0.7.9 release is stable and verified working</li>
+          <li>📦 Missing components in 1.0.0 can be sourced from previous versions</li>
+        </ul>
+        <p><strong>🔍 For a stable version, please use OpenCore 0.7.9 release</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
